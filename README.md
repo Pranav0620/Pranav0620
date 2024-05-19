@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## checkout my projects
+1. [rick-morty-API-demo](https://pranav-react-demo.netlify.app/)
 <!--
 **Pranav0620/Pranav0620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
